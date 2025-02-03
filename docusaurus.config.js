@@ -7,7 +7,7 @@ const foot = require('./static/footer_col_3');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'GSX Documentation',
+	title: 'Adex Documentation',
 	tagline: 'Learn about exploring, building , deploying your apps with GSX',
 	url: 'https://docs.gsx.org.in/',
 	baseUrl: '/',
