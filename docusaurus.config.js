@@ -7,15 +7,15 @@ const foot = require('./static/footer_col_3');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'Adex Documentation',
-	tagline: 'Learn about exploring, building , deploying your apps with GSX',
-	url: 'https://docs.gsx.org.in/',
+	title: 'UI Internal Documentation',
+	tagline: 'Documentaion for Internal UI Team',
+	url: 'https://docs.ui.iudx.io/',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
-	favicon: 'https://iudx-catalogue-assets.s3.ap-south-1.amazonaws.com/ugix/icon.ico',
-	organizationName: 'GSX', // Usually your GitHub org/user name.
-	projectName: 'GSX', // Usually your repo name.
+	favicon: 'https://iudx-catalogue-assets.s3.ap-south-1.amazonaws.com/UIInternalDocumentation/ui-logo.png',
+	organizationName: 'IUDX', // Usually your GitHub org/user name.
+	projectName: 'IUDX', // Usually your repo name.
 
 	presets: [
 		[
@@ -49,7 +49,7 @@ const config = {
 				title: '',
 				logo: {
 					alt: 'My Site Logo',
-					src: 'https://iudx-catalogue-assets.s3.ap-south-1.amazonaws.com/ugix/gsix-logo.png'
+					src: 'https://iudx-catalogue-assets.s3.ap-south-1.amazonaws.com/UIInternalDocumentation/ui-logo.png'
 				},
 				items: [
 					{
